@@ -17,6 +17,7 @@ Il progetto risolve un problema concreto: tenere traccia delle proprie finanze p
 
 ```
 gestionale-fondi-app/
+├── docs/                  # Screenshot dell'interfaccia
 ├── pfm_backend/            # API REST FastAPI
 │   ├── app/
 │   │   ├── api/            # auth, categories, transactions, analytics, strategies
@@ -60,10 +61,11 @@ gestionale-fondi-app/
 
 ## Anteprima dell'interfaccia
 
-> Aggiungi qui 2-3 screenshot dell'app in funzione (oppure una GIF):
->
-> `![Dashboard](docs/screenshot-dashboard.png)`
-> `![Dettaglio transazioni](docs/screenshot-transazioni.png)`
+| | |
+|---|---|
+| ![Screenshot 1](docs/screenshot-1.png) | ![Screenshot 2](docs/screenshot-2.png) |
+| ![Screenshot 3](docs/screenshot-3.png) | ![Screenshot 4](docs/screenshot-4.png) |
+| ![Screenshot 5](docs/screenshot-5.png) | |
 
 ## Come eseguire il progetto in locale
 

@@ -79,11 +79,7 @@ gestionale-fondi-app/
 
 ## Anteprima dell'interfaccia
 
-| | |
-|---|---|
-| ![Screenshot 1](docs/screenshot-1.png) | ![Screenshot 2](docs/screenshot-2.png) |
-| ![Screenshot 3](docs/screenshot-3.png) | ![Screenshot 4](docs/screenshot-4.png) |
-| ![Screenshot 5](docs/screenshot-5.png) | |
+> Screenshot dell'app in funzione: in arrivo.
 
 ## Come eseguire il progetto in locale
 

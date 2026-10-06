@@ -1,0 +1,35 @@
+# --- Python / Backend ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+
+# --- Segreti e variabili d'ambiente ---
+.env
+.env.*
+!.env.example
+
+# --- Node / Frontend ---
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.tsbuildinfo
+
+# Cartelle native generate da Expo (non crearle a mano)
+ios/
+android/
+
+# --- Sistema ed editor ---
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
